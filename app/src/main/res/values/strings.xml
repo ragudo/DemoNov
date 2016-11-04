@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <string name="app_name">DemoNov</string>
+
+    <!-- Activity Titles -->
+    <string formatted="false" name="expenseTrackerActivity">Expense Tracker</string>
+    <string formatted="false" name="expenseTrackerFormFormActivity"></string>
+    <string formatted="false" name="expensesActivity">Expenses</string>
+    <string formatted="false" name="expensesFormFormActivity"></string>
+</resources>
+
